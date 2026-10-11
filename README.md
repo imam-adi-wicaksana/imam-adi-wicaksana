@@ -17,10 +17,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imam-adi-wicaksana&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=imam-adi-wicaksana&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
